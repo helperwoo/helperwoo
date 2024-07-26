@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&&color=timeGradient&height=200&section=header&text=woo's%20Github&fontSize=90&fontColor=ffffff&stroke=121212&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&text=Woo's%20Github&reversal=false&descAlign=50&descAlignY=50&animation=twinkling&textBg=false&section=header)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helperwoo&show_icons=true&theme=dark)
 
