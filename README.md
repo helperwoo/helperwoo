@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&text=Woo's%20Github&reversal=false&descAlign=50&descAlignY=50&animation=twinkling&textBg=false&section=header)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helperwoo&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helperwoo&layout=compact&theme=tokyonight)
